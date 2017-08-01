@@ -2648,7 +2648,7 @@
   display: inline-block;
   width: 156px;
   height: 35px;
-  background-image: url("../img/logo-urbanhire.png");
+  background-image: url("https://rawgit.com/dikaseva/neo_uh/master/img/logo-urbanhire.png");
   background-position: center center;
   background-repeat: no-repeat;
   margin-top: 10px; }
@@ -4245,7 +4245,7 @@ hr {
 .section-purpose {
   padding: 60px 0;
   height: 85vh;
-  background-image: url("../img/ic-carry-job.png");
+  background-image: url("https://rawgit.com/dikaseva/neo_uh/master/img/ic-carry-job.png");
   background-repeat: no-repeat;
   background-position: left 10vw top; }
 
