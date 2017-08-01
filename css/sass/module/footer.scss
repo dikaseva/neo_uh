@@ -1,0 +1,32 @@
+/*footer*/
+.site-footer{
+	p{
+		margin:0;
+		padding:0;
+	}
+
+}
+.top-footer{
+	padding:$margin*3 0;
+	border-top:solid 1px $c-border;
+}
+.bottom-footer{
+	border-top:solid 1px $c-border;
+	padding:$margin 0;
+	ul{
+		li{
+			a{
+				color:$c-8;
+				&:hover{
+					color:$c-8 - 20;
+				}
+				&:active{
+					color:$c-8 - 20;
+				}
+			}
+		}
+	}
+}
+.copyright{
+	color:$c-8;
+}
